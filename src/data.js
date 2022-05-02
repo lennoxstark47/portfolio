@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "React Reserve",
+    title: "CxWalkin",
     subtitle: "MERN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "An app to create and track customer walk-in data for your store. You can modify details later. Pull customer data based on phone number and date range. ",
+    image: "./Animation.gif",
+    link: "http://serene-eyrie-98100.herokuapp.com/",
   },
   {
     title: "React Tracks",
